@@ -1,4 +1,6 @@
 # MediBot ☤🩺
+
+![](https://github.com/your_username/your_repository/raw/main/example_image.png)
 ##BioMistral-7B.Q4_K_M.gguf with Langchain
 
 This repository provides a quick setup for using the BioMistral-7B.Q4_K_M.gguf model with the Langchain library.
