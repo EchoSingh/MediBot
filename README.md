@@ -43,7 +43,7 @@ This project demonstrates how to use the BioMistral-7B.Q4_K_M.gguf model with La
    ```
 4. Download the BioMistral-7B.Q4_K_M.gguf model file and place it in your desired directory. Update the path in the usage example accordingly.
 
-### Usuage
+### Usage
 Here's an example script to get started with the BioMistral model using Langchain:
 ```python
 from langchain.llms import CTransformers
@@ -81,4 +81,4 @@ You can customize the model's behavior by modifying the config dictionary:
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
