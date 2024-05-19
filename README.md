@@ -1,6 +1,6 @@
 # MediBot ☤🩺
 
-![Running!!](https://github.com/aditya26062003/MediBot/blob/main/Screenshot%202024-05-20%20015345.png)
+![Running!!](https://github.com/aditya26062003/MediBot/blob/main/Screenshot%20(4).png)
 
 ## BioMistral-7B.Q4_K_M.gguf with Langchain
 
