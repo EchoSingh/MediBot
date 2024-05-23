@@ -1,5 +1,5 @@
 # MediBot ☤🩺
-
+## Note speed for answering question is : 12-15 minutes
 ![Running!!](https://github.com/aditya26062003/MediBot/blob/main/Screenshot%20(4).png)
 
 ## BioMistral-7B.Q4_K_M.gguf with Langchain
