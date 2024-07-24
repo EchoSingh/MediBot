@@ -32,7 +32,7 @@ This project demonstrates how to use the BioMistral-7B.Q4_K_M.gguf model with La
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/biomistral-langchain-setup.git
+   git clone https://github.com/EchoSingh/biomistral-langchain-setup.git
    cd biomistral-langchain-setup
    ```
 2. Create a virtual environment and activate it:
